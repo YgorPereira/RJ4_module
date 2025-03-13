@@ -1,0 +1,11 @@
+{
+  "name": "module_rj4",
+  "version": "1.0.0",
+  "main": "cadastros.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YgorPereira",
+  "license": "ISC",
+  "description": ""
+}

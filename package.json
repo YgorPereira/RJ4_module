@@ -7,5 +7,6 @@
   },
   "author": "YgorPereira",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
